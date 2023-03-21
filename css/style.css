@@ -1,0 +1,40 @@
+/* Created by: Lily C
+* Created on: 03/21/2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-PHP-Salary
+*/
+
+body {
+  color:#75604d;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h1 {
+  text-align: center;
+  background-color: #490303;
+  color: white;
+  padding: 20px;
+  font-family: Arial Narrow, Arial, sans-serif;
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  color: #44321d;
+}
+
+form {
+  font-family: Arial, sans-serif;
+  color:#000;
+}
+
+#result {
+  background-color: #cdc0b7;
+  padding: 20px;
+}
